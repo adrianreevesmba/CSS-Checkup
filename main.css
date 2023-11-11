@@ -34,3 +34,10 @@ body {
   h1 {
     text-align: center;
   }
+  .border-style {
+    border-style: solid;
+  }
+  .border-color {
+    margin: 10px;
+    border-color: black;
+  }
